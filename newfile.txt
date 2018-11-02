@@ -1,2 +1,3 @@
 Hello Git~!
 master's version!
+b1 branch version!
